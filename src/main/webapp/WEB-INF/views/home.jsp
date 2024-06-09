@@ -3,7 +3,7 @@
 <%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c" %>
 <!DOCTYPE html>
 <html>
-<head>test야!!!!!
+<head>
     <title>Web Page</title>
     <style>DDDDDD
         body {
