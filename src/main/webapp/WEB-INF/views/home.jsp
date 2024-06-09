@@ -5,7 +5,7 @@
 <html>
 <head>sffd
     <title>Web Page</title>
-    <style>
+    <style>DDDDDD
         body {
             background-color: #bfd8ce;
             display: flex;
