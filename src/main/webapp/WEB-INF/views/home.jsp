@@ -4,7 +4,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Web Page</title>
+    <title>Web Page 커밋 테스트입니다</title>
     <style>
         body {
             background-color: #bfd8ce;
