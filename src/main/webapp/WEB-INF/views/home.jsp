@@ -5,7 +5,7 @@
 <html>
 <head>
     <title>Web Page</title>
-    <style>DDDDDD
+    <style>
         body {
             background-color: #bfd8ce;
             display: flex;
